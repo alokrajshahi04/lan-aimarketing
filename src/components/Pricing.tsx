@@ -4,7 +4,7 @@ import { Check } from 'lucide-react'
 const plans = [
   {
     name: 'Starter',
-    price: '$129',
+    price: '$229',
     features: ['AI content suggestions', 'Basic design templates', 'Social media scheduling', 'Limited analytics'],
   },
   {
