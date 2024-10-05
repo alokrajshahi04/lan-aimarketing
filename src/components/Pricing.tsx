@@ -4,12 +4,12 @@ import { Check } from 'lucide-react'
 const plans = [
   {
     name: 'Starter',
-    price: '$29',
+    price: '$129',
     features: ['AI content suggestions', 'Basic design templates', 'Social media scheduling', 'Limited analytics'],
   },
   {
     name: 'Pro',
-    price: '$79',
+    price: '$179',
     features: ['Advanced AI assistance', 'Premium design templates', 'Video editing tools', 'Comprehensive analytics', 'SEO optimization'],
   },
   {
